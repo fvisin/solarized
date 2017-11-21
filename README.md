@@ -3,13 +3,12 @@ Solarized
 
 ## Note
 
-**IMPORTANT**: This repository is a hard fork of original
-[Solarized](https://github.com/altercation/solarized) by
-[Ethan Schoonover](https://github.com/altercation). Due to the lack of
-maintenance despite the popularity, the original repository has many issues and
-even pull requests fixing various issues, the goal of this fork is to apply
-the external patches excluded from the original repository and continue fixing
-the issues.
+**IMPORTANT**: This repository is a fork of original
+[Solarized](https://github.com/altercation/solarized) by [Ethan
+Schoonover](https://github.com/altercation). Due to the lack of maintenance
+despite the popularity, the original repository has many issues and even pull
+requests fixing various issues, the goal of this fork is to apply the external
+patches excluded from the original repository and continue fixing the issues.
 
 ## Precision colors for machines and people
 
@@ -34,9 +33,11 @@ Currently available in formats for (cf [screenshots](#screenshots) below):
 
 ### Editors & IDEs
 
-*   **Vim** by [me](https://github.com/altercation) (the Vim-only portion of Solarized is
-    [available here](https://github.com/altercation/vim-colors-solarized), for use with
-    Pathogen, etc.). See also the [Vim README](http://ethanschoonover.com/solarized/vim-colors-solarized).
+*   **Vim** by [me](https://github.com/altercation) (the Vim-only portion of
+    Solarized is
+    [available here](https://github.com/altercation/vim-colors-solarized), for
+    use with Pathogen, etc.). See also the
+    [Vim README](http://ethanschoonover.com/solarized/vim-colors-solarized).
 *   **Emacs** courtesy of [Greg Pfeil](http://blog.technomadic.org)
     ([@sellout](http://twitter.com/sellout))
     in the main repo and in a [standalone repository][Emacs Repository]
@@ -59,11 +60,11 @@ Currently available in formats for (cf [screenshots](#screenshots) below):
     and [Brian Mathiyakom](http://brian.rarevisions.net))
 *   **TextWrangler & BBEdit** courtesy of [Rui Carmo](http://the.taoofmac.com)
     ([@taoofmac](http://twitter.com/taoofmac))
-    in the main repo and in a [standalone repository][TextWrangler-BBEdit Repository]
+    in the main repo and in a
+    [standalone repository][TextWrangler-BBEdit Repository]
 *   **Visual Studio** courtesy of [David Thibault](http://www.leddt.com)
     ([@leddt](http://twitter.com/leddt))
     in the main repo and in a [standalone repository][Visual Studio Repository]
-
 *   **Xcode** work in progress ports are available for [Xcode 3] and [Xcode 4]
     and will be pulled into the main Solarized project soon.
 
